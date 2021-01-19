@@ -1,0 +1,3 @@
+C:\Users\Frans\Dropbox\Projects\Datalagring-CarPark-EFCore\obj\Debug\netcoreapp3.0\Datalagring-CarPark-EFCore.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\Datalagring-CarPark-EFCore\obj\Debug\netcoreapp3.0\Datalagring-CarPark-EFCore.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\Datalagring-CarPark-EFCore\obj\Debug\netcoreapp3.0\Datalagring-CarPark-EFCore.AssemblyInfo.cs
